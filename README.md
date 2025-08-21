@@ -3,7 +3,7 @@ Perfect for players who want to add a bit of humor to their (almost) deadly mome
 
 ## Contents
 
-* Replaces texture for: `mcl_totem:totem`
+* Replaces texture for: `mcl_totems:totem` and `void_totem:totem`
 
 ## License
 
