@@ -8,4 +8,4 @@ Perfect for players who want to add a bit of humor to their (almost) deadly mome
 ## License
 
 * **Reverse Card texture**: *Parody use / fair use*
-* All other files: **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**
+* All other files: **[CC BY 4.0]
